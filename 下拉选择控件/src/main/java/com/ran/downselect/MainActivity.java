@@ -34,8 +34,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         initData();
     }
 
-
-
     private void initView() {
         setContentView(R.layout.activity_main);
         editText = (EditText) findViewById(R.id.editText);
