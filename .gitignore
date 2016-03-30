@@ -5,8 +5,9 @@
 
 # Gradle files
 build/
-.gradle/
+*.gradle/
 */build/
+*.gitignore
 
 
 # IDEA

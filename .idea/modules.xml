@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/下拉刷新/下拉刷新.iml" filepath="$PROJECT_DIR$/下拉刷新/下拉刷新.iml" />
+      <module fileurl="file://$PROJECT_DIR$/下拉刷新/下拉刷新.iml" filepath="$PROJECT_DIR$/下拉刷新/下拉刷新.iml" />
       <module fileurl="file://$PROJECT_DIR$/下拉选择控件/下拉选择控件.iml" filepath="$PROJECT_DIR$/下拉选择控件/下拉选择控件.iml" />
       <module fileurl="file://$PROJECT_DIR$/大图轮播/大图轮播.iml" filepath="$PROJECT_DIR$/大图轮播/大图轮播.iml" />
       <module fileurl="file://$PROJECT_DIR$/滑动开关/滑动开关.iml" filepath="$PROJECT_DIR$/滑动开关/滑动开关.iml" />
